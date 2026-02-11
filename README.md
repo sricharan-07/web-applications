@@ -1,2 +1,2 @@
 # sample-repository
-for github illustration and illustrationof devops methodologies
+for github illustration and illustration of methodologies
